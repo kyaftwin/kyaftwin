@@ -4,7 +4,7 @@ _i'm simply trying to explore, create, and share things i feel something for_
 ## things i'm comfy with:
 weeb: anime, vtuber, manga, nihongo  
 vr: rhythm, fitness  
-tech: ft software developer - .net, gcp
+tech: ft software developer (.net, gcp)  
 social: family, dating
 
 ## things i'm currently focused on doing more of:  
