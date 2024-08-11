@@ -1,7 +1,7 @@
 _i'm simply trying to explore, create, and share things i feel something for_ 
 
 
-## things i'm comfy with
+## comfy things
 weeb: anime, vtuber, manga, nihongo  
 vr: rhythm, fitness  
 tech: ft software developer (.net, gcp)  
