@@ -3,9 +3,10 @@ _i'm simply trying to explore, create, and share things i feel something for_
 
 ## comfy things
 weeb: anime, vtuber, manga, nihongo  
-vr: rhythm, fitness  
+vr: quest 3, rhythm, fitness    
 tech: ft software developer (.net, gcp)  
-social: family, dating
+social: family, dating  
+
 
 <!---
 kyaftwin/kyaftwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
