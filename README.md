@@ -1,4 +1,4 @@
-_i'm simply trying to explore, create, and share things i feel something for_ 
+_idk what i'm cooking_ 
 
 
 ## comfy things
