@@ -9,6 +9,8 @@ tech: ft software developer (.net, gcp)
 - ml: programming, math
 - sharing: posting, streaming
 - social: family, friends
+- vr dev: 3d graphics, hmi
+
   
 <!---
 kyaftwin/kyaftwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
