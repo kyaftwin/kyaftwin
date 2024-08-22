@@ -1,4 +1,4 @@
-_idk what i'm cooking_ 
+_idk what i'm cooking, but i'll share it for all my frens to critique_ 
 
 
 ## comfy things
